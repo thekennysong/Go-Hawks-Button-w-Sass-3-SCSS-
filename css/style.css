@@ -25,7 +25,7 @@ body {
   font-weight: 300;
   text-align: center;
   overflow: hidden;
-  background: url(http://www.travelphotoadventures.com/wp-content/uploads/2013/09/Seattle-Seahawks-vs-49ers-2013-by-Michael-Matti.jpg) no-repeat center center;
+  background: url(../images/hawks.jpg) no-repeat center center;
   background-size: cover;
 }
 body::after {
